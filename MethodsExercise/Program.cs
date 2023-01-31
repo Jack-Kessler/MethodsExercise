@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Exercise_1_Fun_Story.StoryCreator();
         }
     }
 }
